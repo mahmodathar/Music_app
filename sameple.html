@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Music World</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/mdb.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<nav class="navbar navbar-dark bg-danger navbar-expand-sm py-3">
+    <div class="container-fluid">
+        <a href="index.html" class="navbar-brand mr-4"><i class="fa fa-snowflake"></i> <span class="font-weight-bold font-italic">MusicWorld</span></a>
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#musicApp">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="musicApp">
+            <ul class="navbar-nav text-uppercase">
+                <li class="nav-item mr-2 active">
+                    <a href="index.html" class="nav-link"><i class="fa fa-chart-bar"></i> Dashborad</a>
+                </li>
+                <li class="nav-item mr-3">
+                    <a href="#" class="nav-link"><i class="fa fa-plus-square"></i> Add Post</a>
+                </li>
+                <li class="nav-item mr-3">
+                    <a href="add_users.html" class="nav-link"><i class="fa fa-user-plus"></i> Add User</a>
+                </li>
+                <li class="nav-item mr-3">
+                    <a href="profile.html" class="nav-link"><i class="fa fa-user-circle"></i> Profile</a>
+                </li>
+                <li class="nav-item">
+                    <a href="login.html" class="nav-link"><i class="fa fa-power-off"></i> Logout</a>
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+</nav>
+
+
+<div class="container-fluid ">
+    <div class="row bg-white">
+            <div class="col-md-6 pt-2">
+                <div class="links">
+                    <a href="#" class="btn rounded-pill btn-sm"><span class="text-danger">New Songs</span></a>
+                    <a href="#" class="btn rounded-pill btn-sm"><span class="text-danger">Old Songs</span></a>
+                    <a href="#" class="btn rounded-pill btn-sm"><span class="text-danger">New Video Songs</span></a>
+                    <a href="#" class="btn rounded-pill btn-sm"><span class="text-danger">Old Video Songs</span></a>
+                    <a href="#" class="btn rounded-pill btn-sm"><span class="text-danger">Old Songs</span></a>
+                </div>
+            </div>
+        <div class="col-md-2"></div>
+            <div class="col-md-4">
+                <form class="form-inline md-form mr-auto mb-4 mt-0 pt-2">
+                    <input class="form-control mr-md-4" type="text" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-danger btn-rounded btn-sm my-0" type="submit"> Search</button>
+                </form>
+            </div>
+    </div>
+</div>
+
+<!---------- Songs Section ----------->
+<hr>
+
+
+<div class="container">
+    <h5>Lates Songs</h5>
+    <hr>
+    <div class="row text-white">
+        <div class="col-md-4 bg-danger p-2">
+            <img src="img/forest.jpg" alt="" class="img-fluid pb-2">
+            <p>Singer : <strong>Arijit Singh</strong></p>
+            <audio src="" controls></audio>
+        </div>
+    </div>
+</div>
+<!-----Script Fils--------->
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/popper.min.js"></script>
+
+</body>
+</html>
