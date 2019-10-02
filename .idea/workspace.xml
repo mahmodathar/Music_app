@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cc905ea-6ef1-462e-8032-1e0445fa0175" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RTbKItJu3GKoBN5rTj7PIfxZAk" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Portfolio" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work space\Node_JS_Stater_Files\Music_Web_App\audio" />
+      <recent name="F:\work space\Node_JS_Stater_Files\Music_Web_App\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work space\Node_JS_Stater_Files\Music_Web_App" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cc905ea-6ef1-462e-8032-1e0445fa0175" name="Default Changelist" comment="" />
+      <created>1569693967503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569693967503</updated>
+      <workItem from="1569693971004" duration="7779000" />
+      <workItem from="1569729472280" duration="44639000" />
+      <workItem from="1569820011984" duration="5935000" />
+      <workItem from="1569861749372" duration="4134000" />
+      <workItem from="1569870249864" duration="1997000" />
+      <workItem from="1569913046930" duration="2293000" />
+      <workItem from="1569933114270" duration="1066000" />
+      <workItem from="1570006164159" duration="3621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
